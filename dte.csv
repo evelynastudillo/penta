@@ -1,0 +1,40 @@
+emision=1559347200
+tipo=factura folio=1
+emisor rut=111.111-6 razonSocial=Company A
+receptor rut=222.222-1 razonSocial=Company B
+detalle monto=100 iva=19 Service,
+
+emision=1559433600
+tipo=factura folio=2
+emisor rut=111.111-6 razonSocial=Company A
+receptor rut=222.222-1 razonSocial=Company B
+detalle monto=100 iva=19 Service
+detalle monto=100 iva=19 Product A
+detalle monto=200 iva=38 Product,
+
+emision=1559433600
+tipo=factura folio=1
+emisor rut=222.222-1 razonSocial=Company B
+receptor rut=111.111-6 razonSocial=Company A
+detalle monto=1000 iva=190 Service A
+detalle monto=100 iva=19 Service B,
+
+emision=1559437200
+tipo=factura folio=2
+emisor rut=222.222-1 razonSocial=Company B
+receptor rut=111.111-6 razonSocial=Company A
+detalle monto=1500 iva=285 Product C,
+
+emision=1559477200
+tipo=factura folio=3
+emisor rut=222.222-1 razonSocial=Company B
+receptor rut=111.111-6 razonSocial=Company A
+detalle monto=3000 iva=570 Product D
+detalle monto=1000 iva=190 Product E,
+
+emision=1559487200
+tipo=factura folio=3
+emisor rut=111.111-6 razonSocial=Company A
+receptor rut=222.222-1 razonSocial=Company B
+detalle monto=3000 iva=570 Product D
+detalle monto=1000 iva=190 Product E,
